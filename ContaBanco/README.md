@@ -1,18 +1,31 @@
-## Getting Started
+Conta Terminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um sistema de conta bancária simples criado em Java, parte dos estudo em Java pela plataforma da DIO innoversion.
 
-## Folder Structure
+Descrição
+Este projeto é um sistema de conta bancária que permite aos usuários criar uma conta, digitar o número da agência e realizar operações básicas.
 
-The workspace contains two folders by default, where:
+Funcionalidades
+- Criação de conta bancária
+- Digitação do número da agência
+- Realização de operações básicas (em desenvolvimento)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Tecnologias utilizadas
+- Java
+- Scanner (para entrada de dados)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Como executar o projeto
+1. Clone o repositório para o seu computador.
+2. Abra o projeto em um IDE (Ambiente de Desenvolvimento Integrado) como Eclipse ou IntelliJ IDEA.
+3. Execute o projeto usando o comando java ContaTerminal.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Contribuições
+Se você deseja contribuir para o projeto, por favor, faça um fork do repositório e envie uma pull request com suas alterações.
 
-## Dependency Management
+Licença
+Este projeto é parte dos estudos em Java pela Dio
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Autor
+Rafael Barbosa 
+
+
