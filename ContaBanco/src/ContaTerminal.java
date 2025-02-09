@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class ContaTerminal {
 public static class Banco {
-    String nomeBanco = "caiva egonomica sideral";
+    String nomeBanco = "caixa egonomica sideral";
     String agencia;
     String nomeCliente;
-    int numero;
+    int numero;//
     double saldo;
     
 
